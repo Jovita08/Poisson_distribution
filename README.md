@@ -1,5 +1,6 @@
-# Exp.No:2 Fitting Poisson  distribution
-## Date:
+### EX NO : 02
+### DATE  : 
+# <p align="center">Fitting Poisson  distribution</p>
 ## Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
